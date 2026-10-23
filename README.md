@@ -1,5 +1,7 @@
 # 周报助手（weekly-report）
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
+
 一个用来写周报的 Skill：**不替你编，靠提问把你这一周问清楚**，再落成一份能直接粘进汇报系统的稿子。
 
 适用于 Claude Code、WorkBuddy 等支持 `SKILL.md` 的智能体环境，纯 Markdown，无依赖、无脚本。
@@ -155,4 +157,6 @@ zip -r weekly-report.skill weekly-report/
 
 ## 许可
 
-本仓库暂未附开源许可证，默认保留所有权利。若计划让别人自由使用、修改，建议补一份 MIT 或 Apache-2.0 的 `LICENSE`。
+[MIT](LICENSE) © 2026 旧亭离风 (jiutinglifeng)
+
+可以自由使用、修改、分发、商用，保留版权声明即可。改出更好用的版本，欢迎提 PR。
